@@ -53,7 +53,7 @@
 }
 
 .rt-profile-card:hover .rt-profile-name {
-	color: #4c165c;
+	color: #9c9e06;
 }
 
 .rt-profile-card .rt-profile-name::before,
@@ -85,13 +85,13 @@
 
 .rt-profile-card:hover .rt-profile-name::before {
 	content: "";
-	background: #4c165c;
+	background: #9c9e06;
 	transform: translateX(-200px);
 }
 
 .rt-profile-card:hover .rt-profile-name::after {
 	content: "";
-	background: #4c165c;
+	background: #9c9e06;
 	transform: translateX(0);
 }
 
